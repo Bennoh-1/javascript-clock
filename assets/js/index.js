@@ -19,16 +19,16 @@ fetch('https://world-clock.p.rapidapi.com/json/utc/now', options)
 	})
 	.catch(err => console.error(err));
 
-	//currentDateTime: "2022-06-24T14:15Z"
-//currentFileTime: 133005537120132130
-//dayOfTheWeek: "Friday"
+	currentDateTime: "2022-06-24T14:15Z"
+currentFileTime: 133005537120132130
+dayOfTheWeek: "Friday"
 
 
-	// function renderData(response){
+	 function renderData(response){
 		
-	// 	}
+	 	}
 		
-		//renderData()
+		renderData()
 
 	
 
