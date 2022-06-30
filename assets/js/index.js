@@ -70,13 +70,11 @@ console.log(
   "This console.log() fires when index.js loads - before DOMContentLoaded is triggered"
 );
 
-const input = document.getElementById('input');
+document.addEventListener("form", function (submit) {
+  console.log(submit);
+});
 
-function clickAlert() {
-  alert('I was clicked!');
-}
 
-input.addEventListener('click', clickAlert);
 
 
 
