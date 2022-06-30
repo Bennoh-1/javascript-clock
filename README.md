@@ -1,7 +1,7 @@
-# name
-francis kibira kariuki
+#JavaScript Clock
+designed and written by francis kibira kariuki
 
-#javascriptSlock
+#Description
 this is a normal clock usable to any one whereby someone can be able  to watch his or her in place of his or her comfort whereby just a look of it you will be able to know your time
 
 #project instruction
