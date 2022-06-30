@@ -79,9 +79,9 @@ function clickAlert() {
 input.addEventListener('click', clickAlert);
 
 document.addEventListener("DOMContentLoaded", () =>  {
-  document.querySelector("form").addEventListener("submit")
-
-}
+  document.querySelector("form").addEventListener("submit", (minuteHand))
+console.log(minuteHand)
+})
 
 
 setClock()
