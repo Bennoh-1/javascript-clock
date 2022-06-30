@@ -2,7 +2,7 @@
 designed and written by francis kibira kariuki
 
 #Description
-this is a normal clock usable to any one whereby someone can be able  to watch his or her in place of his or her comfort whereby just a look of it you will be able to know your time
+this is a normal clock usable to any one whereby someone can be able  to watch his or her in place of his or her comfort whereby just a look of it you will be able to know your time. it is also user friendly to everyone.this clock has some features like a clock minute hand and a clock secondhand that is easily seen and readable.
 
 #project instruction
 1.Install json server to your machine and ensure it is done globally
@@ -18,7 +18,7 @@ https://github.com/Bennoh-1/javascript-clock
 franciskibira017@gmail.com
 
 #Known Bugs
-the application is not yet fully implementedto redirect user request but future edits might have the databaseand redirection implemented
+the application is not yet fully implemented to redirect user request but future edits might have the database and redirection implemented
 
 
 #technology used
