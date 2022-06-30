@@ -69,6 +69,17 @@ document.addEventListener("DOMContentLoaded", function() {
 console.log(
   "This console.log() fires when index.js loads - before DOMContentLoaded is triggered"
 );
+
+const input = document.getElementById('input');
+
+function clickAlert() {
+  alert('I was clicked!');
+}
+
+input.addEventListener('click', clickAlert);
+
+
+
 setClock()
 
 // Provides Functionality for the Digital Clock
